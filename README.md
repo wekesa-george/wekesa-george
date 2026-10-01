@@ -11,6 +11,15 @@ gateways over legacy services, multi-tenant platforms, and CI/CD on Kubernetes.
 
 😄 Pronouns: he/him
 
+### 🧰 Languages & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,svelte,nextjs,postgres,redis,docker,kubernetes,rabbitmq,nginx,git,github,githubactions,bash,linux,vscode&perline=10" alt="Languages and tools" />
+  <br/>
+  <img height="48" alt="Erlang/OTP" title="Erlang/OTP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-original.svg" />
+  <img height="48" alt="Traefik" title="Traefik" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/traefikproxy/traefikproxy-original.svg" />
+</p>
+
 ---
 
 <p>
