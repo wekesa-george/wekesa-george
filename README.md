@@ -7,7 +7,7 @@ gateways over legacy services, multi-tenant platforms, and CI/CD on Kubernetes.
 
 💬 Ask me about taming legacy systems, GitOps, identity/auth, or distributed backends.
 
-📫 Reach me: *(add your email / LinkedIn / Twitter here)*
+📫 Reach me: [wgeorge@sparklabstech.net](mailto:wgeorge@sparklabstech.net)
 
 😄 Pronouns: he/him
 
